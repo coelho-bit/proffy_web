@@ -31,7 +31,7 @@ Teachers List             |  Teacher Item
 
 - Clone the repo
 - Go to the project
-- Install the dependecies with **npm install**
+- Install the dependencies with **npm install**
 - Run yarn start or npm start if you dont have yarn
 
 ## License
